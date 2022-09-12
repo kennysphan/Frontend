@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="SWE_Pizza:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/SWE_Pizza_jar</output-path>
+    <root id="archive" name="SWE_Pizza.jar">
+      <element id="module-output" name="SWE_Pizza" />
+    </root>
+  </artifact>
+</component>
